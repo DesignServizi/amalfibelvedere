@@ -26,5 +26,11 @@
         "type": "text",
         "id": "tmryzbb1m32prc3",
         "text": "Questa \u00e8 una prova di scrittura per vedere quanto \u00e8 grande"
+    },
+    {
+        "type": "photo",
+        "name": "20260724_164911_6a637b672e793.jpg",
+        "caption": "",
+        "uploader": "Renato cretella"
     }
 ]
