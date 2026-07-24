@@ -1,55 +1,6 @@
 [
     {
         "type": "photo",
-        "name": "20260724_095341_6a631a05c9e28.jpg",
-        "caption": "Caption 1"
-    },
-    {
-        "type": "photo",
-        "name": "_Al reparto infanzia.jpg",
-        "caption": "Al reparto infanzia"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_095354_6a631a12898c4.png",
-        "caption": "Questa \u00e8 un'altra caption"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_095400_6a631a184ffb4.jpg",
-        "caption": "Qui siamo a venezia"
-    },
-    {
-        "type": "text",
-        "id": "tmryzbb1m32prc3",
-        "text": "Questa \u00e8 una prova di scrittura per vedere quanto \u00e8 grande"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164911_6a637b672e793.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164918_6a637b6e55368.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164924_6a637b74f0bd4.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164934_6a637b7e1e844.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
         "name": "20260724_164941_6a637b8524b97.jpg",
         "caption": "",
         "uploader": "Renato cretella"
