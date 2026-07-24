@@ -1,6 +1,14 @@
 [
-    "20260724_095341_6a631a05c9e28.jpg",
-    "_Al reparto infanzia.jpg",
+    {
+        "type": "photo",
+        "name": "20260724_095341_6a631a05c9e28.jpg",
+        "caption": "dffdfgd"
+    },
+    {
+        "type": "photo",
+        "name": "_Al reparto infanzia.jpg",
+        "caption": "Al reparto infanzia"
+    },
     "20260724_095354_6a631a12898c4.png",
     "20260724_095400_6a631a184ffb4.jpg",
     "20260724_095411_6a631a2383c49.jpg",
