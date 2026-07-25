@@ -126,6 +126,11 @@
         "uploader": "Vita Mansi"
     },
     {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio"
+    },
+    {
         "type": "photo",
         "name": "20260724_174903_6a63896f2f2ff.jpeg",
         "caption": "",
@@ -148,11 +153,6 @@
         "name": "20260724_192355_6a639fab0c0ea.jpeg",
         "caption": "",
         "uploader": "Masha"
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio"
     },
     {
         "type": "photo",
