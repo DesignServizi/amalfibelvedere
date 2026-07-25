@@ -54,6 +54,11 @@
         "uploader": "Caterina Liambo"
     },
     {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio"
+    },
+    {
         "type": "photo",
         "name": "20260724_174808_6a638938d9be0.jpeg",
         "caption": "",
@@ -76,11 +81,6 @@
         "name": "20260724_174825_6a63894984344.jpeg",
         "caption": "",
         "uploader": "Vita Mansi"
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio"
     },
     {
         "type": "photo",
