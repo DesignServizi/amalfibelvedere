@@ -6,6 +6,11 @@
         "uploader": "Sabrina Mansi"
     },
     {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio"
+    },
+    {
         "type": "photo",
         "name": "20260724_170234_6a637e8a0305a.jpeg",
         "caption": "",
@@ -52,11 +57,6 @@
         "name": "20260724_173703_6a63869f2c93e.jpg",
         "caption": "",
         "uploader": "Caterina Liambo"
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio"
     },
     {
         "type": "photo",
