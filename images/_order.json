@@ -1,24 +1,6 @@
 [
     {
         "type": "photo",
-        "name": "20260724_164941_6a637b8524b97.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164948_6a637b8c523e3.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_164958_6a637b9681ebf.jpg",
-        "caption": "",
-        "uploader": "Renato cretella"
-    },
-    {
-        "type": "photo",
         "name": "20260724_170231_6a637e8745f4c.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi"
@@ -190,5 +172,10 @@
         "name": "20260724_210350_6a63b716c040f.jpg",
         "caption": "",
         "uploader": "Raffaele Anastasio"
+    },
+    {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Nuovo momento"
     }
 ]
