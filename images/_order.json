@@ -102,6 +102,11 @@
         "uploader": "Vita Mansi"
     },
     {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio"
+    },
+    {
         "type": "photo",
         "name": "20260724_174845_6a63895d71e86.jpeg",
         "caption": "",
@@ -124,11 +129,6 @@
         "name": "20260724_174857_6a638969da5c9.jpeg",
         "caption": "",
         "uploader": "Vita Mansi"
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio"
     },
     {
         "type": "photo",
