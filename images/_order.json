@@ -150,6 +150,11 @@
         "uploader": "Masha"
     },
     {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio"
+    },
+    {
         "type": "photo",
         "name": "20260724_192400_6a639fb057249.jpeg",
         "caption": "",
@@ -172,10 +177,5 @@
         "name": "20260724_210350_6a63b716c040f.jpg",
         "caption": "",
         "uploader": "Raffaele Anastasio"
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio"
     }
 ]
