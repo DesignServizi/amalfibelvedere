@@ -10,7 +10,8 @@
             "Le scampagnate",
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
-            "Le commemorazioni"
+            "Le commemorazioni",
+            "Le prime adunanze"
         ]
     },
     {
@@ -424,13 +425,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_073748_6a7d582ca5cc2.jpg",
-        "caption": "",
-        "uploader": "Milena Proto",
-        "tags": []
-    },
-    {
-        "type": "photo",
         "name": "20260813_073752_6a7d58303dabc.jpg",
         "caption": "",
         "uploader": "Milena Proto",
@@ -468,7 +462,9 @@
         "name": "20260813_095106_6a7d776a260bf.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": []
+        "tags": [
+            "Le prime adunanze"
+        ]
     },
     {
         "type": "photo",
