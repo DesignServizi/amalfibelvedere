@@ -11,7 +11,8 @@
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
             "Le commemorazioni",
-            "Le prime adunanze"
+            "Le prime adunanze",
+            "Le campagne"
         ]
     },
     {
@@ -471,7 +472,9 @@
         "name": "20260813_095109_6a7d776d9cdb3.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": []
+        "tags": [
+            "Le campagne"
+        ]
     },
     {
         "type": "photo",
