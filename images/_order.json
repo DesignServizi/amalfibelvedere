@@ -1,583 +1,499 @@
 [
     {
+        "type": "meta",
+        "tagOrder": [
+            "Broadcasting"
+        ]
+    },
+    {
         "type": "text",
         "id": "tmrzz0766z41mgo",
-        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE"
+        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170231_6a637e8745f4c.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Broadcasting"
+        ]
     },
     {
         "type": "photo",
         "name": "20260724_170234_6a637e8a0305a.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170238_6a637e8e0aa03.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170241_6a637e91c6cc2.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170245_6a637e95d3a76.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170250_6a637e9a8118a.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_170254_6a637e9e74d41.jpeg",
         "caption": "",
-        "uploader": "Sabrina Mansi"
+        "uploader": "Sabrina Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_173620_6a6386746c5da.jpg",
         "caption": "",
-        "uploader": "Irma Galileo"
+        "uploader": "Irma Galileo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_173703_6a63869f2c93e.jpg",
         "caption": "",
-        "uploader": "Caterina Liambo"
+        "uploader": "Caterina Liambo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174808_6a638938d9be0.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174813_6a63893dc3341.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174820_6a638944469f7.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174825_6a63894984344.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174828_6a63894c9f9f6.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174831_6a63894fa7999.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174835_6a638953dd450.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174841_6a63895929786.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174845_6a63895d71e86.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174849_6a6389617e482.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174853_6a6389654720c.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174857_6a638969da5c9.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174903_6a63896f2f2ff.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_174907_6a63897321e5d.jpeg",
         "caption": "",
-        "uploader": "Vita Mansi"
+        "uploader": "Vita Mansi",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_192336_6a639f98c72a9.jpeg",
         "caption": "",
-        "uploader": "Masha"
+        "uploader": "Masha",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_192355_6a639fab0c0ea.jpeg",
         "caption": "",
-        "uploader": "Masha"
+        "uploader": "Masha",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_192400_6a639fb057249.jpeg",
         "caption": "",
-        "uploader": "Masha"
+        "uploader": "Masha",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_192404_6a639fb45cabb.jpeg",
         "caption": "",
-        "uploader": "Masha"
+        "uploader": "Masha",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_210347_6a63b7138df01.jpg",
         "caption": "",
-        "uploader": "Raffaele Anastasio"
+        "uploader": "Raffaele Anastasio",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260724_210350_6a63b716c040f.jpg",
         "caption": "",
-        "uploader": "Raffaele Anastasio"
-    },
-    {
-        "type": "photo",
-        "name": "20260725_132717_6a649d953832b.jpg",
-        "caption": "",
-        "uploader": "Lucia D urzo"
+        "uploader": "Raffaele Anastasio",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_132856_6a649df8bf524.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo"
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_133639_6a649fc7a8f9f.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo"
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_133643_6a649fcbc992b.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo"
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_133646_6a649fce4be6d.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo"
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_133648_6a649fd0e4b06.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo"
-    },
-    {
-        "type": "photo",
-        "name": "20260725_155353_6a64bff172f9e.jpg",
-        "caption": "",
-        "uploader": "Ohara  De Crescenzo"
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_155411_6a64c00323f8e.jpg",
         "caption": "",
-        "uploader": "Ohara  De Crescenzo"
+        "uploader": "Ohara  De Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_155731_6a64c0cb78b1d.jpg",
         "caption": "",
-        "uploader": "O'Hara de crescenzo"
+        "uploader": "O'Hara de crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260725_162118_6a64c65e8ae50.jpg",
         "caption": "",
-        "uploader": "Lucia D Urzo"
+        "uploader": "Lucia D Urzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260726_103302_6a65c63e1d62d.jpg",
         "caption": "",
-        "uploader": "Leonilda amendola"
+        "uploader": "Leonilda amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260726_103305_6a65c641d756e.jpg",
         "caption": "",
-        "uploader": "Leonilda amendola"
+        "uploader": "Leonilda amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260726_163509_6a661b1dada25.jpg",
         "caption": "",
-        "uploader": "Emanuela Lupo"
+        "uploader": "Emanuela Lupo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260726_163512_6a661b20eddc5.jpg",
         "caption": "",
-        "uploader": "Emanuela Lupo"
-    },
-    {
-        "type": "photo",
-        "name": "20260726_163516_6a661b241689c.jpg",
-        "caption": "",
-        "uploader": "Emanuela Lupo"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192915_6a68e6ebb280a.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192920_6a68e6f00ae90.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192924_6a68e6f4764c7.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192929_6a68e6f93e0b4.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192933_6a68e6fd9e76e.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192938_6a68e70214861.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
+        "uploader": "Emanuela Lupo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260728_192944_6a68e70872113.jpg",
         "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192948_6a68e70ce51a6.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192953_6a68e71166650.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_192957_6a68e71593ce7.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193001_6a68e719a3fc6.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193005_6a68e71df2772.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
+        "uploader": "Giorgia Cretella",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260728_193010_6a68e722e4e78.jpg",
         "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193015_6a68e7273909b.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193019_6a68e72b712bf.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193024_6a68e73051999.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193028_6a68e734d4073.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193032_6a68e738cffd7.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193036_6a68e73c62233.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193040_6a68e7404e609.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193044_6a68e744579ce.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193048_6a68e74893427.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193052_6a68e74cd0a59.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193057_6a68e751b9dde.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193101_6a68e755df7d6.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
-    },
-    {
-        "type": "photo",
-        "name": "20260728_193112_6a68e7605fc3c.jpg",
-        "caption": "",
-        "uploader": "Giorgia Cretella"
+        "uploader": "Giorgia Cretella",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260808_110057_6a76f04943bb7.jpg",
         "caption": "",
-        "uploader": "Ohara De Crescenzo"
+        "uploader": "Ohara De Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260812_005232_6a7ba7b053e37.jpg",
         "caption": "",
-        "uploader": "Remo&Mery Amendola"
+        "uploader": "Remo&Mery Amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260812_005238_6a7ba7b6ca65c.jpg",
         "caption": "",
-        "uploader": "Remo&Mery Amendola"
+        "uploader": "Remo&Mery Amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260812_005242_6a7ba7bae2685.jpg",
         "caption": "",
-        "uploader": "Remo&Mery Amendola"
+        "uploader": "Remo&Mery Amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260812_005245_6a7ba7bdae91e.jpg",
         "caption": "",
-        "uploader": "Remo&Mery Amendola"
+        "uploader": "Remo&Mery Amendola",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_073745_6a7d5829081c1.jpg",
         "caption": "",
-        "uploader": "Milena Proto"
+        "uploader": "Milena Proto",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_073748_6a7d582ca5cc2.jpg",
         "caption": "",
-        "uploader": "Milena Proto"
+        "uploader": "Milena Proto",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_073752_6a7d58303dabc.jpg",
         "caption": "",
-        "uploader": "Milena Proto"
+        "uploader": "Milena Proto",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_073755_6a7d58331f682.jpg",
         "caption": "",
-        "uploader": "Milena Proto"
+        "uploader": "Milena Proto",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_073758_6a7d583699004.jpg",
         "caption": "",
-        "uploader": "Milena Proto"
+        "uploader": "Milena Proto",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095102_6a7d7766b2be5.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095106_6a7d776a260bf.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095109_6a7d776d9cdb3.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095113_6a7d777146949.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095116_6a7d7774a3e04.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095120_6a7d777846573.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095123_6a7d777be0780.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095127_6a7d777f4e76b.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095131_6a7d77837ff9e.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095134_6a7d77867d5a6.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095137_6a7d7789b6630.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095140_6a7d778cd50dc.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095144_6a7d7790058c2.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095147_6a7d7793117dc.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095149_6a7d7795e1128.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260813_095152_6a7d7798b460c.jpeg",
         "caption": "",
-        "uploader": "Crescenzo"
+        "uploader": "Crescenzo",
+        "tags": []
     }
 ]
