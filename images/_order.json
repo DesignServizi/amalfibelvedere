@@ -4,6 +4,7 @@
         "tagOrder": [
             "amalfibelvedere",
             "comitive",
+            "Le prime adunanze",
             "Broadcasting",
             "Le vacanze",
             "Il Servizio",
@@ -12,7 +13,6 @@
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
             "Le commemorazioni",
-            "Le prime adunanze",
             "Le campagne",
             "Le adunanze dei Pionieri",
             "I fratelli"
@@ -88,6 +88,33 @@
         "uploader": "Crescenzo",
         "tags": [
             "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
         ]
     },
     {
@@ -430,33 +457,6 @@
         "uploader": "Ohara  De Crescenzo",
         "tags": [
             "Le commemorazioni"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
         ]
     },
     {
