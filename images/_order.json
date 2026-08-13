@@ -2,6 +2,7 @@
     {
         "type": "meta",
         "tagOrder": [
+            "amalfibelvedere",
             "Broadcasting",
             "comitive",
             "Le vacanze",
@@ -14,15 +15,44 @@
             "Le prime adunanze",
             "Le campagne",
             "Le adunanze dei Pionieri",
-            "amalfibelvedere",
             "I fratelli"
         ]
     },
     {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
-        "tags": []
+        "type": "photo",
+        "name": "20260813_120613_6a7d97156ad0f.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120625_6a7d9721dd696.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120629_6a7d9725516be.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120632_6a7d9728532a5.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "amalfibelvedere"
+        ]
     },
     {
         "type": "photo",
@@ -44,52 +74,11 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170238_6a637e8e0aa03.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260724_170241_6a637e91c6cc2.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi",
         "tags": [
             "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170245_6a637e95d3a76.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170250_6a637e9a8118a.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170254_6a637e9e74d41.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_173620_6a6386746c5da.jpg",
-        "caption": "",
-        "uploader": "Irma Galileo",
-        "tags": [
-            "Le cene insieme"
         ]
     },
     {
@@ -103,9 +92,126 @@
     },
     {
         "type": "photo",
+        "name": "20260812_005242_6a7ba7bae2685.jpg",
+        "caption": "",
+        "uploader": "Remo&Mery Amendola",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170238_6a637e8e0aa03.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095140_6a7d778cd50dc.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095144_6a7d7790058c2.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095152_6a7d7798b460c.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170254_6a637e9e74d41.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260725_162118_6a64c65e8ae50.jpg",
+        "caption": "",
+        "uploader": "Lucia D Urzo",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_174808_6a638938d9be0.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_192336_6a639f98c72a9.jpeg",
+        "caption": "",
+        "uploader": "Masha",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_192404_6a639fb45cabb.jpeg",
+        "caption": "",
+        "uploader": "Masha",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260725_155731_6a64c0cb78b1d.jpg",
+        "caption": "",
+        "uploader": "O'Hara de crescenzo",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260726_103302_6a65c63e1d62d.jpg",
+        "caption": "",
+        "uploader": "Leonilda amendola",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260726_163509_6a661b1dada25.jpg",
+        "caption": "",
+        "uploader": "Emanuela Lupo",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260726_163512_6a661b20eddc5.jpg",
+        "caption": "",
+        "uploader": "Emanuela Lupo",
         "tags": [
             "Il Servizio"
         ]
@@ -130,65 +236,12 @@
     },
     {
         "type": "photo",
-        "name": "20260724_174825_6a63894984344.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174828_6a63894c9f9f6.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174831_6a63894fa7999.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "Le scampagnate"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174835_6a638953dd450.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
         "name": "20260724_174841_6a63895929786.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
         "tags": [
             "Le assemblee"
         ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174845_6a63895d71e86.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "Le commemorazioni"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174849_6a6389617e482.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174853_6a6389654720c.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
     },
     {
         "type": "photo",
@@ -201,13 +254,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_174903_6a63896f2f2ff.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
         "name": "20260724_174907_6a63897321e5d.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -217,38 +263,11 @@
     },
     {
         "type": "photo",
-        "name": "20260724_192336_6a639f98c72a9.jpeg",
-        "caption": "",
-        "uploader": "Masha",
-        "tags": [
-            "Il Servizio"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_192355_6a639fab0c0ea.jpeg",
-        "caption": "",
-        "uploader": "Masha",
-        "tags": [
-            "Le scampagnate"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260724_192400_6a639fb057249.jpeg",
         "caption": "",
         "uploader": "Masha",
         "tags": [
             "Le assemblee"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_192404_6a639fb45cabb.jpeg",
-        "caption": "",
-        "uploader": "Masha",
-        "tags": [
-            "Il Servizio"
         ]
     },
     {
@@ -280,6 +299,42 @@
     },
     {
         "type": "photo",
+        "name": "20260724_174831_6a63894fa7999.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_192355_6a639fab0c0ea.jpeg",
+        "caption": "",
+        "uploader": "Masha",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_073758_6a7d583699004.jpg",
+        "caption": "",
+        "uploader": "Milena Proto",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095149_6a7d7795e1128.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260725_133639_6a649fc7a8f9f.jpg",
         "caption": "",
         "uploader": "Lucia D urzo",
@@ -298,6 +353,24 @@
     },
     {
         "type": "photo",
+        "name": "20260812_005245_6a7ba7bdae91e.jpg",
+        "caption": "",
+        "uploader": "Remo&Mery Amendola",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_173620_6a6386746c5da.jpg",
+        "caption": "",
+        "uploader": "Irma Galileo",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260725_133646_6a649fce4be6d.jpg",
         "caption": "",
         "uploader": "Lucia D urzo",
@@ -307,10 +380,48 @@
     },
     {
         "type": "photo",
-        "name": "20260725_133648_6a649fd0e4b06.jpg",
+        "name": "20260813_073745_6a7d5829081c1.jpg",
         "caption": "",
-        "uploader": "Lucia D urzo",
-        "tags": []
+        "uploader": "Milena Proto",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_073752_6a7d58303dabc.jpg",
+        "caption": "",
+        "uploader": "Milena Proto",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_073755_6a7d58331f682.jpg",
+        "caption": "",
+        "uploader": "Milena Proto",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095127_6a7d777f4e76b.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174845_6a63895d71e86.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "Le commemorazioni"
+        ]
     },
     {
         "type": "photo",
@@ -323,48 +434,180 @@
     },
     {
         "type": "photo",
-        "name": "20260725_155731_6a64c0cb78b1d.jpg",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
         "caption": "",
-        "uploader": "O'Hara de crescenzo",
+        "uploader": "Crescenzo",
         "tags": [
-            "Il Servizio"
+            "Le prime adunanze"
         ]
     },
     {
         "type": "photo",
-        "name": "20260725_162118_6a64c65e8ae50.jpg",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
         "caption": "",
-        "uploader": "Lucia D Urzo",
+        "uploader": "Crescenzo",
         "tags": [
-            "Le vacanze"
+            "Le prime adunanze"
         ]
     },
     {
         "type": "photo",
-        "name": "20260726_103302_6a65c63e1d62d.jpg",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
         "caption": "",
-        "uploader": "Leonilda amendola",
+        "uploader": "Crescenzo",
         "tags": [
-            "Il Servizio"
+            "Le prime adunanze"
         ]
     },
     {
         "type": "photo",
-        "name": "20260726_163509_6a661b1dada25.jpg",
+        "name": "20260813_095109_6a7d776d9cdb3.jpeg",
         "caption": "",
-        "uploader": "Emanuela Lupo",
+        "uploader": "Crescenzo",
         "tags": [
-            "Il Servizio"
+            "Le campagne"
         ]
     },
     {
         "type": "photo",
-        "name": "20260726_163512_6a661b20eddc5.jpg",
+        "name": "20260813_095113_6a7d777146949.jpeg",
         "caption": "",
-        "uploader": "Emanuela Lupo",
+        "uploader": "Crescenzo",
         "tags": [
-            "Il Servizio"
+            "Le campagne"
         ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095116_6a7d7774a3e04.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095131_6a7d77837ff9e.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095134_6a7d77867d5a6.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095137_6a7d7789b6630.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095120_6a7d777846573.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le adunanze dei Pionieri"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095123_6a7d777be0780.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le adunanze dei Pionieri"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120610_6a7d971283187.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170245_6a637e95d3a76.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170250_6a637e9a8118a.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174825_6a63894984344.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174828_6a63894c9f9f6.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174835_6a638953dd450.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174849_6a6389617e482.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174853_6a6389654720c.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174903_6a63896f2f2ff.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": []
+    },
+    {
+        "type": "photo",
+        "name": "20260725_133648_6a649fd0e4b06.jpg",
+        "caption": "",
+        "uploader": "Lucia D urzo",
+        "tags": []
     },
     {
         "type": "photo",
@@ -403,60 +646,6 @@
     },
     {
         "type": "photo",
-        "name": "20260812_005242_6a7ba7bae2685.jpg",
-        "caption": "",
-        "uploader": "Remo&Mery Amendola",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260812_005245_6a7ba7bdae91e.jpg",
-        "caption": "",
-        "uploader": "Remo&Mery Amendola",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_073745_6a7d5829081c1.jpg",
-        "caption": "",
-        "uploader": "Milena Proto",
-        "tags": [
-            "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_073752_6a7d58303dabc.jpg",
-        "caption": "",
-        "uploader": "Milena Proto",
-        "tags": [
-            "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_073755_6a7d58331f682.jpg",
-        "caption": "",
-        "uploader": "Milena Proto",
-        "tags": [
-            "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_073758_6a7d583699004.jpg",
-        "caption": "",
-        "uploader": "Milena Proto",
-        "tags": [
-            "Le scampagnate"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_095102_6a7d7766b2be5.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -464,136 +653,10 @@
     },
     {
         "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095109_6a7d776d9cdb3.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095113_6a7d777146949.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095116_6a7d7774a3e04.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095120_6a7d777846573.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le adunanze dei Pionieri"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095123_6a7d777be0780.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le adunanze dei Pionieri"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095127_6a7d777f4e76b.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095131_6a7d77837ff9e.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095134_6a7d77867d5a6.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095137_6a7d7789b6630.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095140_6a7d778cd50dc.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095144_6a7d7790058c2.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_095147_6a7d7793117dc.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
         "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095149_6a7d7795e1128.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le scampagnate"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095152_6a7d7798b460c.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
     },
     {
         "type": "photo",
@@ -688,73 +751,10 @@
     },
     {
         "type": "photo",
-        "name": "20260813_120610_6a7d971283187.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120613_6a7d97156ad0f.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_120616_6a7d9718a628f.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
         "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120625_6a7d9721dd696.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120629_6a7d9725516be.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120632_6a7d9728532a5.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
     },
     {
         "type": "photo",
