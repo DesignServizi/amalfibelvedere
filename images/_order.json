@@ -12,7 +12,8 @@
             "Le cene insieme",
             "Le commemorazioni",
             "Le prime adunanze",
-            "Le campagne"
+            "Le campagne",
+            "Le adunanze dei Pionieri"
         ]
     },
     {
@@ -499,7 +500,9 @@
         "name": "20260813_095120_6a7d777846573.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": []
+        "tags": [
+            "Le adunanze dei Pionieri"
+        ]
     },
     {
         "type": "photo",
