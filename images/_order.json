@@ -688,13 +688,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_120607_6a7d970fc3a75.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": []
-    },
-    {
-        "type": "photo",
         "name": "20260813_120610_6a7d971283187.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -707,9 +700,7 @@
         "name": "20260813_120613_6a7d97156ad0f.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": [
-            "Il Servizio"
-        ]
+        "tags": []
     },
     {
         "type": "photo",
@@ -767,6 +758,7 @@
         "type": "photo",
         "name": "20260813_122030_6a7d9a6ed3783.jpg",
         "caption": "",
-        "uploader": "Fabiola"
+        "uploader": "Fabiola",
+        "tags": []
     }
 ]
