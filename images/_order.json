@@ -3,8 +3,8 @@
         "type": "meta",
         "tagOrder": [
             "amalfibelvedere",
-            "Broadcasting",
             "comitive",
+            "Broadcasting",
             "Le vacanze",
             "Il Servizio",
             "Le assemblee",
@@ -17,12 +17,6 @@
             "Le adunanze dei Pionieri",
             "I fratelli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
-        "tags": []
     },
     {
         "type": "photo",
@@ -58,6 +52,42 @@
         "uploader": "Crescenzo",
         "tags": [
             "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170238_6a637e8e0aa03.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095140_6a7d778cd50dc.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095144_6a7d7790058c2.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095152_6a7d7798b460c.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
         ]
     },
     {
@@ -103,42 +133,6 @@
         "uploader": "Remo&Mery Amendola",
         "tags": [
             "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170238_6a637e8e0aa03.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095140_6a7d778cd50dc.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095144_6a7d7790058c2.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095152_6a7d7798b460c.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
         ]
     },
     {
@@ -545,6 +539,12 @@
         "tags": [
             "I fratelli"
         ]
+    },
+    {
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
+        "tags": []
     },
     {
         "type": "photo",
