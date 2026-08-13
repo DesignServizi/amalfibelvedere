@@ -14,7 +14,8 @@
             "Le prime adunanze",
             "Le campagne",
             "Le adunanze dei Pionieri",
-            "amalfibelvedere"
+            "amalfibelvedere",
+            "I fratelli"
         ]
     },
     {
@@ -697,7 +698,9 @@
         "name": "20260813_120610_6a7d971283187.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": []
+        "tags": [
+            "I fratelli"
+        ]
     },
     {
         "type": "photo",
