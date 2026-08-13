@@ -13,7 +13,8 @@
             "Le commemorazioni",
             "Le prime adunanze",
             "Le campagne",
-            "Le adunanze dei Pionieri"
+            "Le adunanze dei Pionieri",
+            "amalfibelvedere"
         ]
     },
     {
@@ -735,7 +736,9 @@
         "name": "20260813_120625_6a7d9721dd696.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": []
+        "tags": [
+            "amalfibelvedere"
+        ]
     },
     {
         "type": "photo",
