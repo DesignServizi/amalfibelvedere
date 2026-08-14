@@ -726,13 +726,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170250_6a637e9a8118a.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
         "name": "20260724_174828_6a63894c9f9f6.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -849,36 +842,44 @@
         "type": "photo",
         "name": "20260814_053725_6a7e8d75bf580.jpeg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_053728_6a7e8d78317fa.jpeg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_054634_6a7e8f9aec137.jpg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_054642_6a7e8fa200ff8.jpg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
     },
     {
         "type": "photo",
         "name": "20260814_054647_6a7e8fa70cd98.jpg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_054652_6a7e8fac893b6.jpg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     }
 ]
