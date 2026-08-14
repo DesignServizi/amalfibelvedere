@@ -869,7 +869,9 @@
         "type": "text",
         "id": "tmrzz0766z41mgo",
         "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
-        "tags": []
+        "tags": [
+            "amalfibelvedere"
+        ]
     },
     {
         "type": "photo",
