@@ -3,8 +3,8 @@
         "type": "meta",
         "tagOrder": [
             "amalfibelvedere",
-            "comitive",
             "Le prime adunanze",
+            "comitive",
             "I fratelli",
             "Broadcasting",
             "Le vacanze",
@@ -18,12 +18,6 @@
             "Le adunanze dei Pionieri",
             "Su Zoom"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmrzz0766z41mgo",
-        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
-        "tags": []
     },
     {
         "type": "photo",
@@ -59,6 +53,51 @@
         "uploader": "Crescenzo",
         "tags": [
             "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_053725_6a7e8d75bf580.jpeg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_053728_6a7e8d78317fa.jpeg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
         ]
     },
     {
@@ -162,33 +201,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_120610_6a7d971283187.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -270,6 +282,33 @@
     },
     {
         "type": "photo",
+        "name": "20260724_174828_6a63894c9f9f6.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260812_005238_6a7ba7b6ca65c.jpg",
+        "caption": "",
+        "uploader": "Remo&Mery Amendola",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_052307_6a7e8a1b76062.jpeg",
+        "caption": "",
+        "uploader": "Danka",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_170231_6a637e8745f4c.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi",
@@ -315,6 +354,33 @@
     },
     {
         "type": "photo",
+        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120536_6a7d96f021bc4.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_122030_6a7d9a6ed3783.jpg",
+        "caption": "",
+        "uploader": "Fabiola",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_170254_6a637e9e74d41.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi",
@@ -327,6 +393,42 @@
         "name": "20260725_162118_6a64c65e8ae50.jpg",
         "caption": "",
         "uploader": "Lucia D Urzo",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054634_6a7e8f9aec137.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054642_6a7e8fa200ff8.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054647_6a7e8fa70cd98.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054652_6a7e8fac893b6.jpg",
+        "caption": "",
+        "uploader": "Renato",
         "tags": [
             "Le vacanze"
         ]
@@ -399,6 +501,24 @@
         "name": "20260813_120555_6a7d97030b847.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_052310_6a7e8a1e16df7.jpeg",
+        "caption": "",
+        "uploader": "Danka",
+        "tags": [
+            "Il Servizio"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_052312_6a7e8a20ccc9d.jpeg",
+        "caption": "",
+        "uploader": "Danka",
         "tags": [
             "Il Servizio"
         ]
@@ -522,6 +642,15 @@
     },
     {
         "type": "photo",
+        "name": "20260813_095147_6a7d7793117dc.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260725_133639_6a649fc7a8f9f.jpg",
         "caption": "",
         "uploader": "Lucia D urzo",
@@ -561,6 +690,15 @@
         "name": "20260813_120601_6a7d9709e6886.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_052315_6a7e8a234b951.jpeg",
+        "caption": "",
+        "uploader": "Danka",
         "tags": [
             "Le attvit\u00e0 a Forchia"
         ]
@@ -720,22 +858,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170245_6a637e95d3a76.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174828_6a63894c9f9f6.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260728_193010_6a68e722e4e78.jpg",
         "caption": "",
         "uploader": "Giorgia Cretella",
@@ -744,138 +866,16 @@
         ]
     },
     {
-        "type": "photo",
-        "name": "20260812_005238_6a7ba7b6ca65c.jpg",
-        "caption": "",
-        "uploader": "Remo&Mery Amendola",
-        "tags": [
-            "I fratelli"
-        ]
+        "type": "text",
+        "id": "tmrzz0766z41mgo",
+        "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
+        "tags": []
     },
     {
         "type": "photo",
-        "name": "20260813_095147_6a7d7793117dc.jpeg",
+        "name": "20260724_170245_6a637e95d3a76.jpeg",
         "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le scampagnate"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120536_6a7d96f021bc4.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_122030_6a7d9a6ed3783.jpg",
-        "caption": "",
-        "uploader": "Fabiola",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_052307_6a7e8a1b76062.jpeg",
-        "caption": "",
-        "uploader": "Danka",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_052310_6a7e8a1e16df7.jpeg",
-        "caption": "",
-        "uploader": "Danka",
-        "tags": [
-            "Il Servizio"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_052312_6a7e8a20ccc9d.jpeg",
-        "caption": "",
-        "uploader": "Danka",
-        "tags": [
-            "Il Servizio"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_052315_6a7e8a234b951.jpeg",
-        "caption": "",
-        "uploader": "Danka",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_053725_6a7e8d75bf580.jpeg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_053728_6a7e8d78317fa.jpeg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054634_6a7e8f9aec137.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054642_6a7e8fa200ff8.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054647_6a7e8fa70cd98.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054652_6a7e8fac893b6.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
+        "uploader": "Sabrina Mansi",
+        "tags": []
     }
 ]
