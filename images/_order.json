@@ -759,7 +759,9 @@
         "name": "20260812_005238_6a7ba7b6ca65c.jpg",
         "caption": "",
         "uploader": "Remo&Mery Amendola",
-        "tags": []
+        "tags": [
+            "I fratelli"
+        ]
     },
     {
         "type": "photo",
@@ -769,13 +771,6 @@
         "tags": [
             "Le scampagnate"
         ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120526_6a7d96e657250.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": []
     },
     {
         "type": "photo",
