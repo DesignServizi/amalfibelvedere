@@ -807,24 +807,30 @@
         "type": "photo",
         "name": "20260814_052307_6a7e8a1b76062.jpeg",
         "caption": "",
-        "uploader": "Danka"
+        "uploader": "Danka",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_052310_6a7e8a1e16df7.jpeg",
         "caption": "",
-        "uploader": "Danka"
+        "uploader": "Danka",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_052312_6a7e8a20ccc9d.jpeg",
         "caption": "",
-        "uploader": "Danka"
+        "uploader": "Danka",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260814_052315_6a7e8a234b951.jpeg",
         "caption": "",
-        "uploader": "Danka"
+        "uploader": "Danka",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
     }
 ]
