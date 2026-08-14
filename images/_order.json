@@ -82,6 +82,14 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmsshbcbkflqvut",
+        "text": "LE PRIME ADUNANZE INSIEME",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
         "type": "photo",
         "name": "20260813_095106_6a7d776a260bf.jpeg",
         "caption": "",
@@ -104,14 +112,6 @@
         "name": "20260813_120622_6a7d971e9e3ec.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "text",
-        "id": "tmsshbcbkflqvut",
-        "text": "LE PRIME ADUNANZE INSIEME",
         "tags": [
             "Le prime adunanze"
         ]
