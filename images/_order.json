@@ -47,24 +47,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_120629_6a7d9725516be.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120632_6a7d9728532a5.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260814_053725_6a7e8d75bf580.jpeg",
         "caption": "",
         "uploader": "Renato",
@@ -396,15 +378,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170231_6a637e8745f4c.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260724_170234_6a637e8a0305a.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi",
@@ -561,15 +534,6 @@
         "name": "20260726_103302_6a65c63e1d62d.jpg",
         "caption": "",
         "uploader": "Leonilda amendola",
-        "tags": [
-            "Il Servizio"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260726_163509_6a661b1dada25.jpg",
-        "caption": "",
-        "uploader": "Emanuela Lupo",
         "tags": [
             "Il Servizio"
         ]
@@ -738,15 +702,6 @@
     },
     {
         "type": "photo",
-        "name": "20260725_133639_6a649fc7a8f9f.jpg",
-        "caption": "",
-        "uploader": "Lucia D urzo",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260725_133643_6a649fcbc992b.jpg",
         "caption": "",
         "uploader": "Lucia D urzo",
@@ -891,65 +846,67 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170245_6a637e95d3a76.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260815_181858_6a809172f0c3c.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": [
+            "Le assemblee"
+        ]
     },
     {
         "type": "photo",
         "name": "20260815_181902_6a80917614583.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181905_6a80917903fbb.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181908_6a80917c4060a.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181911_6a80917f1608f.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181913_6a809181f1ddd.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181916_6a809184e6ff3.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181919_6a809187a891c.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260815_181922_6a80918a40649.jpeg",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     }
 ]
