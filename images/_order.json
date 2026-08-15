@@ -16,7 +16,8 @@
             "Le cene insieme",
             "Le commemorazioni",
             "Le adunanze dei Pionieri",
-            "Su Zoom"
+            "Su Zoom",
+            "Assoli"
         ]
     },
     {
@@ -876,7 +877,9 @@
         "name": "20260815_181908_6a80917c4060a.jpeg",
         "caption": "",
         "uploader": "Lucia",
-        "tags": []
+        "tags": [
+            "Assoli"
+        ]
     },
     {
         "type": "photo",
