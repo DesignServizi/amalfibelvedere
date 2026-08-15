@@ -279,6 +279,12 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmsuh4xvx56xu4q",
+        "text": "INIZIO SANDRO E NADIA",
+        "tags": []
+    },
+    {
         "type": "photo",
         "name": "20260813_120610_6a7d971283187.jpeg",
         "caption": "",
@@ -889,11 +895,5 @@
         "tags": [
             "I fratelli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsuh4xvx56xu4q",
-        "text": "INIZIO SANDRO E NADIA",
-        "tags": []
     }
 ]
