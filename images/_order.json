@@ -3,8 +3,8 @@
         "type": "meta",
         "tagOrder": [
             "amalfibelvedere",
-            "Le prime adunanze",
             "comitive",
+            "Le prime adunanze",
             "Le campagne",
             "I fratelli",
             "Broadcasting",
@@ -39,15 +39,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_120613_6a7d97156ad0f.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260814_053725_6a7e8d75bf580.jpeg",
         "caption": "",
         "uploader": "Renato",
@@ -62,41 +53,6 @@
         "uploader": "Renato",
         "tags": [
             "amalfibelvedere"
-        ]
-    },
-    {
-        "type": "text",
-        "id": "tmsshbcbkflqvut",
-        "text": "LE PRIME ADUNANZE INSIEME",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
         ]
     },
     {
@@ -178,6 +134,50 @@
         "uploader": "Crescenzo",
         "tags": [
             "comitive"
+        ]
+    },
+    {
+        "type": "text",
+        "id": "tmsshbcbkflqvut",
+        "text": "LE PRIME ADUNANZE INSIEME",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120613_6a7d97156ad0f.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
         ]
     },
     {
