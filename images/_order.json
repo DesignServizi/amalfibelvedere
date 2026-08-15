@@ -101,15 +101,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_170238_6a637e8e0aa03.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Il Servizio"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_095140_6a7d778cd50dc.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -142,15 +133,6 @@
         "uploader": "Crescenzo",
         "tags": [
             "comitive"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120539_6a7d96f31a8d0.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
         ]
     },
     {
@@ -379,6 +361,15 @@
     },
     {
         "type": "photo",
+        "name": "20260813_120539_6a7d96f31a8d0.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_170234_6a637e8a0305a.jpeg",
         "caption": "",
         "uploader": "Sabrina Mansi",
@@ -492,6 +483,24 @@
         "uploader": "Renato",
         "tags": [
             "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260815_181911_6a80917f1608f.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170238_6a637e8e0aa03.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Il Servizio"
         ]
     },
     {
@@ -658,6 +667,15 @@
     },
     {
         "type": "photo",
+        "name": "20260815_181858_6a809172f0c3c.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Le assemblee"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_174831_6a63894fa7999.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -703,6 +721,15 @@
     },
     {
         "type": "photo",
+        "name": "20260815_181913_6a809181f1ddd.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Le scampagnate"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260725_133643_6a649fcbc992b.jpg",
         "caption": "",
         "uploader": "Lucia D urzo",
@@ -742,6 +769,15 @@
         "name": "20260814_052315_6a7e8a234b951.jpeg",
         "caption": "",
         "uploader": "Danka",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260815_181922_6a80918a40649.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
         "tags": [
             "Le attvit\u00e0 a Forchia"
         ]
@@ -847,11 +883,11 @@
     },
     {
         "type": "photo",
-        "name": "20260815_181858_6a809172f0c3c.jpeg",
+        "name": "20260815_181905_6a80917903fbb.jpeg",
         "caption": "",
         "uploader": "Lucia",
         "tags": [
-            "Le assemblee"
+            "Su Zoom"
         ]
     },
     {
@@ -865,38 +901,11 @@
     },
     {
         "type": "photo",
-        "name": "20260815_181905_6a80917903fbb.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Su Zoom"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260815_181908_6a80917c4060a.jpeg",
         "caption": "",
         "uploader": "Lucia",
         "tags": [
             "Assoli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260815_181911_6a80917f1608f.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260815_181913_6a809181f1ddd.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Le scampagnate"
         ]
     },
     {
@@ -915,15 +924,6 @@
         "uploader": "Lucia",
         "tags": [
             "Assoli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260815_181922_6a80918a40649.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
         ]
     }
 ]
