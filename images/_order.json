@@ -249,6 +249,16 @@
         "music": "-"
     },
     {
+        "type": "text",
+        "id": "tmsuh4xvx56xu4q",
+        "text": "",
+        "tags": [
+            "I fratelli"
+        ],
+        "duration": 6,
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260816_171444_6a81d3e4f0e34.png",
         "caption": "",
@@ -374,16 +384,6 @@
         "tags": [
             "I fratelli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsuh4xvx56xu4q",
-        "text": "",
-        "tags": [
-            "I fratelli"
-        ],
-        "duration": 6,
-        "bg": "nero"
     },
     {
         "type": "text",
