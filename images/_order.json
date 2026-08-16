@@ -937,7 +937,9 @@
         "type": "text",
         "id": "tmsw1ijdnm4cdon",
         "text": "LE COMITIVE",
-        "tags": [],
+        "tags": [
+            "comitive"
+        ],
         "bg": "nero"
     },
     {
