@@ -76,7 +76,8 @@
         "tags": [
             "Le prime adunanze"
         ],
-        "bg": "nero"
+        "bg": "nero",
+        "off": true
     },
     {
         "type": "photo",
