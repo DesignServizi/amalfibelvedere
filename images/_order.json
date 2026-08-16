@@ -14,8 +14,8 @@
             "Le scampagnate",
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
-            "Le adunanze dei Pionieri",
             "Le commemorazioni",
+            "Le adunanze dei Pionieri",
             "Su Zoom",
             "Assoli"
         ],
@@ -883,6 +883,15 @@
     },
     {
         "type": "photo",
+        "name": "20260724_174845_6a63895d71e86.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "Le commemorazioni"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260813_095120_6a7d777846573.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -897,15 +906,6 @@
         "uploader": "Crescenzo",
         "tags": [
             "Le adunanze dei Pionieri"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174845_6a63895d71e86.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "Le commemorazioni"
         ]
     },
     {
