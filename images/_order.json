@@ -51,15 +51,6 @@
         ]
     },
     {
-        "type": "photo",
-        "name": "20260814_053728_6a7e8d78317fa.jpeg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "amalfibelvedere"
-        ]
-    },
-    {
         "type": "text",
         "id": "tmsshbcbkflqvut",
         "text": "LE PRIME ADUNANZE INSIEME",
@@ -967,24 +958,30 @@
         "type": "photo",
         "name": "20260816_191028_6a81ef0485335.jpeg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260816_191031_6a81ef071c5bd.jpeg",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260816_191103_6a81ef27661a1.jpeg",
         "caption": "",
-        "uploader": "Renato Cretella"
+        "uploader": "Renato Cretella",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260816_191106_6a81ef2a4bf2a.jpeg",
         "caption": "",
-        "uploader": "Renato Cretella"
+        "uploader": "Renato Cretella",
+        "tags": [
+            "amalfibelvedere"
+        ]
     }
 ]
