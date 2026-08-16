@@ -27,7 +27,8 @@
         "text": "Luglio 2025 Amalfi e Maiori diventanoAMALFI BELVEDERE",
         "tags": [
             "amalfibelvedere"
-        ]
+        ],
+        "music": "osg_I_055-d5f571.mp3"
     },
     {
         "type": "photo",
@@ -839,15 +840,6 @@
     },
     {
         "type": "photo",
-        "name": "20260725_155411_6a64c00323f8e.jpg",
-        "caption": "",
-        "uploader": "Ohara  De Crescenzo",
-        "tags": [
-            "Le commemorazioni"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_095120_6a7d777846573.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -920,32 +912,23 @@
     },
     {
         "type": "photo",
-        "name": "20260816_161533_6a81c60567494.jpg",
-        "caption": "",
-        "uploader": "Renato"
-    },
-    {
-        "type": "photo",
-        "name": "20260816_165228_6a81ceac7dcf4.jpg",
-        "caption": "",
-        "uploader": "Renato Cretella"
-    },
-    {
-        "type": "photo",
         "name": "20260816_171145_6a81d33190fb3.jpeg",
         "caption": "",
-        "uploader": "Mena"
+        "uploader": "Mena",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260816_171209_6a81d349acd31.png",
         "caption": "",
-        "uploader": "Lucia"
+        "uploader": "Lucia",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260816_171444_6a81d3e4f0e34.png",
         "caption": "",
-        "uploader": "Renato"
+        "uploader": "Renato",
+        "tags": []
     }
 ]
