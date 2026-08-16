@@ -48,7 +48,8 @@
         "uploader": "Renato",
         "tags": [
             "amalfibelvedere"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
