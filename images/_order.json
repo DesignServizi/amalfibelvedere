@@ -3,8 +3,8 @@
         "type": "meta",
         "tagOrder": [
             "amalfibelvedere",
-            "comitive",
             "Le prime adunanze",
+            "comitive",
             "Le campagne",
             "I fratelli",
             "Le vacanze",
@@ -60,10 +60,39 @@
     },
     {
         "type": "text",
-        "id": "tmsw1ijdnm4cdon",
-        "text": "LE COMITIVE",
-        "tags": [],
-        "bg": "notte"
+        "id": "tmsshbcbkflqvut",
+        "text": "LE PRIME ADUNANZE INSIEME",
+        "tags": [
+            "Le prime adunanze"
+        ],
+        "bg": "nero"
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
     },
     {
         "type": "photo",
@@ -147,42 +176,6 @@
         ]
     },
     {
-        "type": "text",
-        "id": "tmsshbcbkflqvut",
-        "text": "LE PRIME ADUNANZE INSIEME",
-        "tags": [
-            "Le prime adunanze"
-        ],
-        "bg": "nero"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
         "type": "photo",
         "name": "20260813_120613_6a7d97156ad0f.jpeg",
         "caption": "",
@@ -245,22 +238,6 @@
             "Le campagne"
         ],
         "music": "-"
-    },
-    {
-        "type": "text",
-        "id": "tmsuh4xvx56xu4q",
-        "text": "",
-        "tags": [],
-        "duration": 6,
-        "bg": "nero"
-    },
-    {
-        "type": "text",
-        "id": "tmsw1uupb5eu0uv",
-        "text": "",
-        "tags": [],
-        "duration": 5,
-        "bg": "nero"
     },
     {
         "type": "photo",
@@ -955,5 +932,28 @@
         "tags": [
             "Assoli"
         ]
+    },
+    {
+        "type": "text",
+        "id": "tmsw1ijdnm4cdon",
+        "text": "LE COMITIVE",
+        "tags": [],
+        "bg": "notte"
+    },
+    {
+        "type": "text",
+        "id": "tmsuh4xvx56xu4q",
+        "text": "",
+        "tags": [],
+        "duration": 6,
+        "bg": "nero"
+    },
+    {
+        "type": "text",
+        "id": "tmsw1uupb5eu0uv",
+        "text": "",
+        "tags": [],
+        "duration": 5,
+        "bg": "nero"
     }
 ]
