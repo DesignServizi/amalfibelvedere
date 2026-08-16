@@ -60,6 +60,15 @@
         ]
     },
     {
+        "type": "photo",
+        "name": "20260816_192227_6a81f1d3d7b93.jpeg",
+        "caption": "",
+        "uploader": "Renato Cretella",
+        "tags": [
+            "amalfibelvedere"
+        ]
+    },
+    {
         "type": "text",
         "id": "tmsshbcbkflqvut",
         "text": "LE PRIME ADUNANZE INSIEME",
@@ -970,15 +979,6 @@
         "uploader": "Renato Cretella",
         "tags": [
             "Assoli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260816_192227_6a81f1d3d7b93.jpeg",
-        "caption": "",
-        "uploader": "Renato Cretella",
-        "tags": [
-            "amalfibelvedere"
         ]
     }
 ]
