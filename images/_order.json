@@ -7,8 +7,8 @@
             "Le prime adunanze",
             "Le campagne",
             "I fratelli",
-            "Broadcasting",
             "Le vacanze",
+            "Broadcasting",
             "Il Servizio",
             "Le assemblee",
             "Le scampagnate",
@@ -377,6 +377,69 @@
     },
     {
         "type": "photo",
+        "name": "20260724_170254_6a637e9e74d41.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260725_162118_6a64c65e8ae50.jpg",
+        "caption": "",
+        "uploader": "Lucia D Urzo",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054634_6a7e8f9aec137.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054642_6a7e8fa200ff8.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054647_6a7e8fa70cd98.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_054652_6a7e8fac893b6.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260815_181911_6a80917f1608f.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260813_120539_6a7d96f31a8d0.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -445,69 +508,6 @@
         "uploader": "Fabiola",
         "tags": [
             "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170254_6a637e9e74d41.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260725_162118_6a64c65e8ae50.jpg",
-        "caption": "",
-        "uploader": "Lucia D Urzo",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054634_6a7e8f9aec137.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054642_6a7e8fa200ff8.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054647_6a7e8fa70cd98.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054652_6a7e8fac893b6.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260815_181911_6a80917f1608f.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Le vacanze"
         ]
     },
     {
