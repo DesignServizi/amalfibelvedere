@@ -247,7 +247,8 @@
             "I fratelli"
         ],
         "duration": 5,
-        "music": "Grazie Sandro Nadia-5e6c2a.mp3"
+        "music": "Grazie Sandro Nadia-5e6c2a.mp3",
+        "bg": "nero"
     },
     {
         "type": "photo",
