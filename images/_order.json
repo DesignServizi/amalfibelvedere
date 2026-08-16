@@ -30,7 +30,8 @@
         ],
         "duration": 5,
         "music": "osg_I_055-d5f571.mp3",
-        "bg": "nero"
+        "bg": "nero",
+        "off": true
     },
     {
         "type": "photo",
