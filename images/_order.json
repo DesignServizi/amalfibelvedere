@@ -59,6 +59,13 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmsw1ijdnm4cdon",
+        "text": "LE COMITIVE",
+        "tags": [],
+        "bg": "notte"
+    },
+    {
         "type": "photo",
         "name": "20260813_095140_6a7d778cd50dc.jpeg",
         "caption": "",
@@ -942,12 +949,5 @@
         "tags": [
             "Assoli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsw1ijdnm4cdon",
-        "text": "LE COMITIVE",
-        "tags": [],
-        "bg": "notte"
     }
 ]
