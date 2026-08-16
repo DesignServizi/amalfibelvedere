@@ -800,6 +800,15 @@
     },
     {
         "type": "photo",
+        "name": "20260816_171209_6a81d349acd31.png",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_173620_6a6386746c5da.jpg",
         "caption": "",
         "uploader": "Irma Galileo",
@@ -931,15 +940,6 @@
         "uploader": "Lucia",
         "tags": [
             "Assoli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260816_171209_6a81d349acd31.png",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
         ]
     }
 ]
