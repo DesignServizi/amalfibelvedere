@@ -4,8 +4,8 @@
         "tagOrder": [
             "amalfibelvedere",
             "Le prime adunanze",
-            "comitive",
             "Le campagne",
+            "comitive",
             "I fratelli",
             "Le vacanze",
             "Broadcasting",
@@ -96,6 +96,70 @@
     },
     {
         "type": "photo",
+        "name": "20260813_120613_6a7d97156ad0f.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095109_6a7d776d9cdb3.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095113_6a7d777146949.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095116_6a7d7774a3e04.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095131_6a7d77837ff9e.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095134_6a7d77867d5a6.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095137_6a7d7789b6630.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le campagne"
+        ],
+        "music": "-"
+    },
+    {
+        "type": "photo",
         "name": "20260813_095140_6a7d778cd50dc.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -183,70 +247,6 @@
             "comitive"
         ],
         "bg": "nero"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120613_6a7d97156ad0f.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095109_6a7d776d9cdb3.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095113_6a7d777146949.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095116_6a7d7774a3e04.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095131_6a7d77837ff9e.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095134_6a7d77867d5a6.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095137_6a7d7789b6630.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le campagne"
-        ],
-        "music": "-"
     },
     {
         "type": "photo",
