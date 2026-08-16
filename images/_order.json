@@ -250,6 +250,16 @@
     },
     {
         "type": "text",
+        "id": "tmsw1uupb5eu0uv",
+        "text": "",
+        "tags": [
+            "I fratelli"
+        ],
+        "duration": 5,
+        "bg": "nero"
+    },
+    {
+        "type": "text",
         "id": "tmsuh4xvx56xu4q",
         "text": "",
         "tags": [
@@ -384,16 +394,6 @@
         "tags": [
             "I fratelli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsw1uupb5eu0uv",
-        "text": "",
-        "tags": [
-            "I fratelli"
-        ],
-        "duration": 5,
-        "bg": "nero"
     },
     {
         "type": "photo",
