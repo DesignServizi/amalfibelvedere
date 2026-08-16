@@ -565,7 +565,8 @@
         "tags": [
             "Il Servizio"
         ],
-        "duration": 5
+        "duration": 5,
+        "fit": "cover"
     },
     {
         "type": "photo",
