@@ -79,15 +79,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_095102_6a7d7766b2be5.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "comitive"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_120619_6a7d971b87817.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -143,6 +134,15 @@
     {
         "type": "photo",
         "name": "20260813_120545_6a7d96f923cff.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095102_6a7d7766b2be5.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
         "tags": [
