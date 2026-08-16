@@ -113,7 +113,8 @@
         "tags": [
             "comitive"
         ],
-        "bg": "nero"
+        "bg": "nero",
+        "off": true
     },
     {
         "type": "photo",
