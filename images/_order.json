@@ -70,15 +70,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_120619_6a7d971b87817.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -129,6 +120,15 @@
         "uploader": "Crescenzo",
         "tags": [
             "comitive"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
         ]
     },
     {
