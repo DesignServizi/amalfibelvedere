@@ -18,7 +18,8 @@
             "Le adunanze dei Pionieri",
             "Su Zoom",
             "Assoli"
-        ]
+        ],
+        "defaultDuration": 5.5
     },
     {
         "type": "text",
