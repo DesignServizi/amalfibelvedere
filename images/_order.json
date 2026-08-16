@@ -105,6 +105,15 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmsw1ijdnm4cdon",
+        "text": "LE COMITIVE",
+        "tags": [
+            "comitive"
+        ],
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260813_095140_6a7d778cd50dc.jpeg",
         "caption": "",
@@ -184,15 +193,6 @@
         "tags": [
             "comitive"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsw1ijdnm4cdon",
-        "text": "LE COMITIVE",
-        "tags": [
-            "comitive"
-        ],
-        "bg": "nero"
     },
     {
         "type": "photo",
