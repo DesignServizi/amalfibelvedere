@@ -176,6 +176,15 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmsw1ijdnm4cdon",
+        "text": "LE COMITIVE",
+        "tags": [
+            "comitive"
+        ],
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260813_120613_6a7d97156ad0f.jpeg",
         "caption": "",
@@ -365,6 +374,26 @@
         "tags": [
             "I fratelli"
         ]
+    },
+    {
+        "type": "text",
+        "id": "tmsuh4xvx56xu4q",
+        "text": "",
+        "tags": [
+            "I fratelli"
+        ],
+        "duration": 6,
+        "bg": "nero"
+    },
+    {
+        "type": "text",
+        "id": "tmsw1uupb5eu0uv",
+        "text": "",
+        "tags": [
+            "I fratelli"
+        ],
+        "duration": 5,
+        "bg": "nero"
     },
     {
         "type": "photo",
@@ -932,34 +961,5 @@
         "tags": [
             "Assoli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsw1ijdnm4cdon",
-        "text": "LE COMITIVE",
-        "tags": [
-            "comitive"
-        ],
-        "bg": "nero"
-    },
-    {
-        "type": "text",
-        "id": "tmsuh4xvx56xu4q",
-        "text": "",
-        "tags": [
-            "I fratelli"
-        ],
-        "duration": 6,
-        "bg": "nero"
-    },
-    {
-        "type": "text",
-        "id": "tmsw1uupb5eu0uv",
-        "text": "",
-        "tags": [
-            "I fratelli"
-        ],
-        "duration": 5,
-        "bg": "nero"
     }
 ]
