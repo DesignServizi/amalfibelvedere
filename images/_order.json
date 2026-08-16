@@ -68,7 +68,8 @@
         "uploader": "Renato Cretella",
         "tags": [
             "amalfibelvedere"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "text",
