@@ -251,6 +251,15 @@
     },
     {
         "type": "photo",
+        "name": "20260816_171444_6a81d3e4f0e34.png",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260813_120610_6a7d971283187.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -362,15 +371,6 @@
         "name": "20260816_171145_6a81d33190fb3.jpeg",
         "caption": "",
         "uploader": "Mena",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260816_171444_6a81d3e4f0e34.png",
-        "caption": "",
-        "uploader": "Renato",
         "tags": [
             "I fratelli"
         ]
