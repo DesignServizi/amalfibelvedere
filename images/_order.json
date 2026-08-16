@@ -954,7 +954,9 @@
         "type": "text",
         "id": "tmsw1uupb5eu0uv",
         "text": "",
-        "tags": [],
+        "tags": [
+            "I fratelli"
+        ],
         "duration": 5,
         "bg": "nero"
     }
