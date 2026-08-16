@@ -2,8 +2,8 @@
     {
         "type": "meta",
         "tagOrder": [
-            "Le prime adunanze",
             "amalfibelvedere",
+            "Le prime adunanze",
             "comitive",
             "Le campagne",
             "I fratelli",
@@ -20,42 +20,6 @@
             "Assoli"
         ],
         "defaultDuration": 3
-    },
-    {
-        "type": "text",
-        "id": "tmsshbcbkflqvut",
-        "text": "LE PRIME ADUNANZE INSIEME",
-        "tags": [
-            "Le prime adunanze"
-        ],
-        "bg": "nero"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120619_6a7d971b87817.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095106_6a7d776a260bf.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le prime adunanze"
-        ]
     },
     {
         "type": "text",
@@ -102,6 +66,42 @@
         "uploader": "Renato Cretella",
         "tags": [
             "amalfibelvedere"
+        ]
+    },
+    {
+        "type": "text",
+        "id": "tmsshbcbkflqvut",
+        "text": "LE PRIME ADUNANZE INSIEME",
+        "tags": [
+            "Le prime adunanze"
+        ],
+        "bg": "nero"
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120619_6a7d971b87817.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120622_6a7d971e9e3ec.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095106_6a7d776a260bf.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le prime adunanze"
         ]
     },
     {
