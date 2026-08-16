@@ -257,6 +257,13 @@
         "bg": "nero"
     },
     {
+        "type": "text",
+        "id": "tmsw1uupb5eu0uv",
+        "text": "",
+        "tags": [],
+        "bg": "notte"
+    },
+    {
         "type": "photo",
         "name": "20260816_171444_6a81d3e4f0e34.png",
         "caption": "",
@@ -949,12 +956,5 @@
         "tags": [
             "Assoli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmsw1uupb5eu0uv",
-        "text": "",
-        "tags": [],
-        "bg": "notte"
     }
 ]
