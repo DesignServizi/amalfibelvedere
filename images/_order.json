@@ -712,6 +712,13 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "Nuovo momento",
+        "tags": [],
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260724_210347_6a63b7138df01.jpg",
         "caption": "",
@@ -869,13 +876,6 @@
         "tags": [
             "Le scampagnate"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "Nuovo momento",
-        "tags": [],
-        "bg": "nero"
     },
     {
         "type": "photo",
