@@ -1067,5 +1067,11 @@
         "duration": 15,
         "bg": "nero",
         "fx": "none"
+    },
+    {
+        "type": "photo",
+        "name": "20260817_235914_6a8384328c284.jpg",
+        "caption": "",
+        "uploader": "CONCORRENZA 1"
     }
 ]
