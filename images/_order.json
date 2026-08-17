@@ -527,7 +527,8 @@
         "uploader": "Fabiola",
         "tags": [
             "Broadcasting"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
