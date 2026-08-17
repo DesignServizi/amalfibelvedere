@@ -9,12 +9,12 @@
             "I fratelli",
             "Broadcasting",
             "Il Servizio",
+            "Le adunanze dei Pionieri",
             "Le assemblee",
             "Le vacanze",
             "Le scampagnate",
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
-            "Le adunanze dei Pionieri",
             "Su Zoom",
             "Assoli"
         ],
@@ -637,6 +637,25 @@
     },
     {
         "type": "photo",
+        "name": "20260724_174845_6a63895d71e86.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "Le adunanze dei Pionieri"
+        ],
+        "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260813_095123_6a7d777be0780.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le adunanze dei Pionieri"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_174813_6a63893dc3341.jpeg",
         "caption": "Ai congressi",
         "uploader": "Vita Mansi",
@@ -963,25 +982,6 @@
         "uploader": "Milena Proto",
         "tags": [
             "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_174845_6a63895d71e86.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "Le adunanze dei Pionieri"
-        ],
-        "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095123_6a7d777be0780.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Le adunanze dei Pionieri"
         ]
     },
     {
