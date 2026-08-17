@@ -541,6 +541,13 @@
         "fit": "cover"
     },
     {
+        "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "Nuovo momento",
+        "tags": [],
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260724_174808_6a638938d9be0.jpeg",
         "caption": "",
@@ -710,13 +717,6 @@
         "tags": [
             "Le assemblee"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "Nuovo momento",
-        "tags": [],
-        "bg": "nero"
     },
     {
         "type": "photo",
