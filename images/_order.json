@@ -457,7 +457,8 @@
         "tags": [
             "Le vacanze"
         ],
-        "duration": 3
+        "duration": 3,
+        "fit": "contain"
     },
     {
         "type": "photo",
