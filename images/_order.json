@@ -154,7 +154,8 @@
         "tags": [
             "comitive"
         ],
-        "duration": 4
+        "duration": 4,
+        "fit": "duo"
     },
     {
         "type": "photo",
