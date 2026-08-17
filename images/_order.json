@@ -393,7 +393,8 @@
         "uploader": "Danka",
         "tags": [
             "I fratelli"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
