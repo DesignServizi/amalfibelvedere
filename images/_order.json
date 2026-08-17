@@ -348,6 +348,15 @@
     },
     {
         "type": "photo",
+        "name": "20260808_110057_6a76f04943bb7.jpg",
+        "caption": "",
+        "uploader": "Ohara De Crescenzo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_174853_6a6389654720c.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -360,15 +369,6 @@
         "name": "20260724_174903_6a63896f2f2ff.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260808_110057_6a76f04943bb7.jpg",
-        "caption": "",
-        "uploader": "Ohara De Crescenzo",
         "tags": [
             "I fratelli"
         ]
