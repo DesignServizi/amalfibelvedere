@@ -299,15 +299,6 @@
     },
     {
         "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "",
-        "tags": [],
-        "duration": 15,
-        "bg": "nero",
-        "fx": "none"
-    },
-    {
-        "type": "text",
         "id": "tmsuh4xvx56xu4q",
         "text": "",
         "tags": [
@@ -458,6 +449,15 @@
         "name": "20260724_173620_6a6386746c5da.jpg",
         "caption": "",
         "uploader": "Irma Galileo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260817_172618_6a83281a4fce8.png",
+        "caption": "",
+        "uploader": "Irma",
         "tags": [
             "I fratelli"
         ]
@@ -1050,6 +1050,15 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "",
+        "tags": [],
+        "duration": 15,
+        "bg": "nero",
+        "fx": "none"
+    },
+    {
         "type": "photo",
         "name": "20260817_062848_6a828e0048649.jpg",
         "caption": "",
@@ -1062,11 +1071,5 @@
         "caption": "",
         "uploader": "Lucia",
         "tags": []
-    },
-    {
-        "type": "photo",
-        "name": "20260817_172618_6a83281a4fce8.png",
-        "caption": "",
-        "uploader": "Irma"
     }
 ]
