@@ -930,6 +930,15 @@
     },
     {
         "type": "photo",
+        "name": "20260813_095127_6a7d777f4e76b.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Le cene insieme"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260813_073752_6a7d58303dabc.jpg",
         "caption": "",
         "uploader": "Milena Proto",
@@ -943,15 +952,6 @@
         "name": "20260813_073755_6a7d58331f682.jpg",
         "caption": "",
         "uploader": "Milena Proto",
-        "tags": [
-            "Le cene insieme"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_095127_6a7d777f4e76b.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
         "tags": [
             "Le cene insieme"
         ]
