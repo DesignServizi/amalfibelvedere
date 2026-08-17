@@ -294,7 +294,8 @@
         ],
         "duration": 8,
         "music": "-",
-        "bg": "nero"
+        "bg": "nero",
+        "fx": "none"
     },
     {
         "type": "text",
