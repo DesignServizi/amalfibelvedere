@@ -302,7 +302,8 @@
         "text": "",
         "tags": [],
         "duration": 15,
-        "bg": "nero"
+        "bg": "nero",
+        "fx": "none"
     },
     {
         "type": "text",
