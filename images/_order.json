@@ -504,6 +504,16 @@
     },
     {
         "type": "photo",
+        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ],
+        "fit": "duo"
+    },
+    {
+        "type": "photo",
         "name": "20260813_120536_6a7d96f021bc4.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -520,16 +530,6 @@
             "Broadcasting"
         ],
         "fit": "contain"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ],
-        "fit": "duo"
     },
     {
         "type": "photo",
