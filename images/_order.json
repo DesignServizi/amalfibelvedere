@@ -359,6 +359,15 @@
     },
     {
         "type": "photo",
+        "name": "20260808_110057_6a76f04943bb7.jpg",
+        "caption": "",
+        "uploader": "Ohara De Crescenzo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260724_174849_6a6389617e482.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -366,15 +375,6 @@
             "I fratelli"
         ],
         "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260808_110057_6a76f04943bb7.jpg",
-        "caption": "",
-        "uploader": "Ohara De Crescenzo",
-        "tags": [
-            "I fratelli"
-        ]
     },
     {
         "type": "photo",
