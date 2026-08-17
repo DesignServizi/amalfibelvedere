@@ -298,6 +298,13 @@
     },
     {
         "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "Nuovo momento",
+        "tags": [],
+        "bg": "nero"
+    },
+    {
+        "type": "text",
         "id": "tmsuh4xvx56xu4q",
         "text": "",
         "tags": [
@@ -539,13 +546,6 @@
         ],
         "duration": 3,
         "fit": "cover"
-    },
-    {
-        "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "Nuovo momento",
-        "tags": [],
-        "bg": "nero"
     },
     {
         "type": "photo",
