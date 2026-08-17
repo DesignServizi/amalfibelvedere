@@ -1066,5 +1066,11 @@
         "duration": 15,
         "bg": "nero",
         "fx": "none"
+    },
+    {
+        "type": "photo",
+        "name": "20260817_182002_6a8334b2e9e8b.jpg",
+        "caption": "",
+        "uploader": "PROVA TECNICA"
     }
 ]
