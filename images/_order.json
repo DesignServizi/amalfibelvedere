@@ -316,7 +316,8 @@
         "tags": [
             "I fratelli"
         ],
-        "duration": 6
+        "duration": 6,
+        "fit": "contain"
     },
     {
         "type": "photo",
