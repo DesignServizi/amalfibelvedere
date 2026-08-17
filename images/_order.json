@@ -871,6 +871,13 @@
         ]
     },
     {
+        "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "Nuovo momento",
+        "tags": [],
+        "bg": "nero"
+    },
+    {
         "type": "photo",
         "name": "20260725_133643_6a649fcbc992b.jpg",
         "caption": "Le attivit\u00e0 a Forchia",
@@ -1051,12 +1058,5 @@
         "caption": "",
         "uploader": "Lucia",
         "tags": []
-    },
-    {
-        "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "Nuovo momento",
-        "tags": [],
-        "bg": "nero"
     }
 ]
