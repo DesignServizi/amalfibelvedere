@@ -357,6 +357,15 @@
     },
     {
         "type": "photo",
+        "name": "20260808_110057_6a76f04943bb7.jpg",
+        "caption": "",
+        "uploader": "Ohara De Crescenzo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260813_120558_6a7d9706331bf.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -364,15 +373,6 @@
             "I fratelli"
         ],
         "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260808_110057_6a76f04943bb7.jpg",
-        "caption": "",
-        "uploader": "Ohara De Crescenzo",
-        "tags": [
-            "I fratelli"
-        ]
     },
     {
         "type": "photo",
