@@ -367,15 +367,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_174903_6a63896f2f2ff.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260812_005232_6a7ba7b053e37.jpg",
         "caption": "",
         "uploader": "Remo&Mery Amendola",
@@ -388,6 +379,15 @@
         "name": "20260813_120558_6a7d9706331bf.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
+        "tags": [
+            "I fratelli"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174903_6a63896f2f2ff.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
         "tags": [
             "I fratelli"
         ]
