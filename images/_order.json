@@ -883,15 +883,6 @@
     },
     {
         "type": "photo",
-        "name": "20260814_052315_6a7e8a234b951.jpeg",
-        "caption": "",
-        "uploader": "Danka",
-        "tags": [
-            "Le attvit\u00e0 a Forchia"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260815_181922_6a80918a40649.jpeg",
         "caption": "",
         "uploader": "Lucia",
@@ -904,6 +895,15 @@
         "name": "20260816_171209_6a81d349acd31.png",
         "caption": "",
         "uploader": "Lucia",
+        "tags": [
+            "Le attvit\u00e0 a Forchia"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260814_052315_6a7e8a234b951.jpeg",
+        "caption": "",
+        "uploader": "Danka",
         "tags": [
             "Le attvit\u00e0 a Forchia"
         ]
