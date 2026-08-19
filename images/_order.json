@@ -854,7 +854,8 @@
         "uploader": "Vita Mansi",
         "tags": [
             "Le scampagnate"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
