@@ -766,16 +766,6 @@
     },
     {
         "type": "photo",
-        "name": "20260817_190120_6a833e60a0efb.png",
-        "caption": "",
-        "uploader": "Lucia D urzo",
-        "tags": [
-            "Le assemblee"
-        ],
-        "fit": "contain"
-    },
-    {
-        "type": "photo",
         "name": "20260814_054642_6a7e8fa200ff8.jpg",
         "caption": "Le Vacanze",
         "uploader": "Renato",
@@ -1010,6 +1000,16 @@
             "Le cene insieme"
         ],
         "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260817_190120_6a833e60a0efb.png",
+        "caption": "",
+        "uploader": "Lucia D urzo",
+        "tags": [
+            "Le assemblee"
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
