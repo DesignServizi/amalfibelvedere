@@ -389,16 +389,6 @@
     },
     {
         "type": "photo",
-        "name": "20260724_174903_6a63896f2f2ff.jpeg",
-        "caption": "",
-        "uploader": "Vita Mansi",
-        "tags": [
-            "I fratelli"
-        ],
-        "fit": "duo"
-    },
-    {
-        "type": "photo",
         "name": "20260813_120605_6a7d970d11053.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -406,6 +396,16 @@
             "I fratelli"
         ],
         "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260724_174903_6a63896f2f2ff.jpeg",
+        "caption": "",
+        "uploader": "Vita Mansi",
+        "tags": [
+            "I fratelli"
+        ],
+        "fit": "duo"
     },
     {
         "type": "photo",
