@@ -793,6 +793,15 @@
     },
     {
         "type": "photo",
+        "name": "20260814_054647_6a7e8fa70cd98.jpg",
+        "caption": "",
+        "uploader": "Renato",
+        "tags": [
+            "Le vacanze"
+        ]
+    },
+    {
+        "type": "photo",
         "name": "20260725_162118_6a64c65e8ae50.jpg",
         "caption": "",
         "uploader": "Lucia D Urzo",
@@ -803,15 +812,6 @@
     {
         "type": "photo",
         "name": "20260814_054634_6a7e8f9aec137.jpg",
-        "caption": "",
-        "uploader": "Renato",
-        "tags": [
-            "Le vacanze"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260814_054647_6a7e8fa70cd98.jpg",
         "caption": "",
         "uploader": "Renato",
         "tags": [
