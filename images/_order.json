@@ -437,15 +437,6 @@
     },
     {
         "type": "photo",
-        "name": "20260817_172618_6a83281a4fce8.png",
-        "caption": "",
-        "uploader": "Irma",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260819_101505_6a85660954e98.jpeg",
         "caption": "",
         "uploader": "Roberta",
@@ -453,6 +444,15 @@
             "I fratelli"
         ],
         "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260817_172618_6a83281a4fce8.png",
+        "caption": "",
+        "uploader": "Irma",
+        "tags": [
+            "I fratelli"
+        ]
     },
     {
         "type": "photo",
