@@ -7,8 +7,8 @@
             "comitive",
             "Le campagne",
             "I fratelli",
-            "Broadcasting",
             "Il Servizio",
+            "Broadcasting",
             "Le adunanze dei Pionieri",
             "Le assemblee",
             "Le vacanze",
@@ -483,84 +483,6 @@
     },
     {
         "type": "photo",
-        "name": "20260813_120539_6a7d96f31a8d0.jpeg",
-        "caption": "I broadcasting insieme",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ],
-        "duration": 3,
-        "fit": "cover"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170234_6a637e8a0305a.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Broadcasting"
-        ],
-        "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260724_170241_6a637e91c6cc2.jpeg",
-        "caption": "",
-        "uploader": "Sabrina Mansi",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260724_173703_6a63869f2c93e.jpg",
-        "caption": "",
-        "uploader": "Caterina Liambo",
-        "tags": [
-            "Broadcasting"
-        ],
-        "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260812_005242_6a7ba7bae2685.jpg",
-        "caption": "",
-        "uploader": "Remo&Mery Amendola",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ],
-        "fit": "duo"
-    },
-    {
-        "type": "photo",
-        "name": "20260813_120536_6a7d96f021bc4.jpeg",
-        "caption": "",
-        "uploader": "Crescenzo",
-        "tags": [
-            "Broadcasting"
-        ]
-    },
-    {
-        "type": "photo",
-        "name": "20260813_122030_6a7d9a6ed3783.jpg",
-        "caption": "",
-        "uploader": "Fabiola",
-        "tags": [
-            "Broadcasting"
-        ],
-        "fit": "contain"
-    },
-    {
-        "type": "photo",
         "name": "20260724_170238_6a637e8e0aa03.jpeg",
         "caption": "Il Servizio",
         "uploader": "Sabrina Mansi",
@@ -673,6 +595,84 @@
         "tags": [
             "Il Servizio"
         ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120539_6a7d96f31a8d0.jpeg",
+        "caption": "I broadcasting insieme",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ],
+        "duration": 3,
+        "fit": "cover"
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170234_6a637e8a0305a.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Broadcasting"
+        ],
+        "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260724_170241_6a637e91c6cc2.jpeg",
+        "caption": "",
+        "uploader": "Sabrina Mansi",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260724_173703_6a63869f2c93e.jpg",
+        "caption": "",
+        "uploader": "Caterina Liambo",
+        "tags": [
+            "Broadcasting"
+        ],
+        "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260812_005242_6a7ba7bae2685.jpg",
+        "caption": "",
+        "uploader": "Remo&Mery Amendola",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120529_6a7d96e9ba5d4.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ],
+        "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260813_120536_6a7d96f021bc4.jpeg",
+        "caption": "",
+        "uploader": "Crescenzo",
+        "tags": [
+            "Broadcasting"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260813_122030_6a7d9a6ed3783.jpg",
+        "caption": "",
+        "uploader": "Fabiola",
+        "tags": [
+            "Broadcasting"
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
