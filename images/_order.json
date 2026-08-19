@@ -399,15 +399,6 @@
     },
     {
         "type": "photo",
-        "name": "20260812_005232_6a7ba7b053e37.jpg",
-        "caption": "",
-        "uploader": "Remo&Mery Amendola",
-        "tags": [
-            "I fratelli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260813_120605_6a7d970d11053.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -415,6 +406,15 @@
             "I fratelli"
         ],
         "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260812_005232_6a7ba7b053e37.jpg",
+        "caption": "",
+        "uploader": "Remo&Mery Amendola",
+        "tags": [
+            "I fratelli"
+        ]
     },
     {
         "type": "photo",
