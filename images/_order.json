@@ -1069,5 +1069,11 @@
         "duration": 15,
         "bg": "nero",
         "fx": "none"
+    },
+    {
+        "type": "photo",
+        "name": "20260819_114134_6a857a4ea233f.jpg",
+        "caption": "",
+        "uploader": "Mansi"
     }
 ]
