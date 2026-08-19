@@ -75,16 +75,6 @@
         "fit": "contain"
     },
     {
-        "type": "text",
-        "id": "tmsshbcbkflqvut",
-        "text": "LE PRIME ADUNANZE INSIEME",
-        "tags": [
-            "Le prime adunanze"
-        ],
-        "bg": "nero",
-        "off": true
-    },
-    {
         "type": "photo",
         "name": "20260813_120619_6a7d971b87817.jpeg",
         "caption": "LE PRIME ADUNANZE",
