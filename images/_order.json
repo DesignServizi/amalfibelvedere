@@ -414,7 +414,7 @@
         "tags": [
             "I fratelli"
         ],
-        "fit": "cover"
+        "fit": "contain"
     },
     {
         "type": "photo",
