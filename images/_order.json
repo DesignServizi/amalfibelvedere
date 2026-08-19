@@ -451,7 +451,8 @@
         "uploader": "Irma",
         "tags": [
             "I fratelli"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
