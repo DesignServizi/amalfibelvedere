@@ -531,7 +531,7 @@
         "tags": [
             "Il Servizio"
         ],
-        "fit": "duo"
+        "fit": "contain"
     },
     {
         "type": "photo",
