@@ -968,7 +968,8 @@
         "uploader": "Lucia D urzo",
         "tags": [
             "Le cene insieme"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
