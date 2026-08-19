@@ -780,7 +780,7 @@
         "tags": [
             "Le assemblee"
         ],
-        "fit": "cover"
+        "fit": "contain"
     },
     {
         "type": "photo",
