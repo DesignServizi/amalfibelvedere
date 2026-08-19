@@ -540,7 +540,8 @@
         "uploader": "Crescenzo",
         "tags": [
             "Il Servizio"
-        ]
+        ],
+        "fit": "contain"
     },
     {
         "type": "photo",
