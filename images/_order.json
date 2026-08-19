@@ -477,6 +477,16 @@
     },
     {
         "type": "photo",
+        "name": "20260726_103302_6a65c63e1d62d.jpg",
+        "caption": "",
+        "uploader": "Leonilda amendola",
+        "tags": [
+            "Il Servizio"
+        ],
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
         "name": "20260724_174808_6a638938d9be0.jpeg",
         "caption": "",
         "uploader": "Vita Mansi",
@@ -513,16 +523,6 @@
         "tags": [
             "Il Servizio"
         ]
-    },
-    {
-        "type": "photo",
-        "name": "20260726_103302_6a65c63e1d62d.jpg",
-        "caption": "",
-        "uploader": "Leonilda amendola",
-        "tags": [
-            "Il Servizio"
-        ],
-        "fit": "contain"
     },
     {
         "type": "photo",
