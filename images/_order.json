@@ -1072,24 +1072,30 @@
         "type": "photo",
         "name": "20260819_101505_6a85660954e98.jpeg",
         "caption": "",
-        "uploader": "Roberta"
+        "uploader": "Roberta",
+        "tags": [
+            "I fratelli"
+        ]
     },
     {
         "type": "photo",
         "name": "20260819_101510_6a85660e60603.jpeg",
         "caption": "",
-        "uploader": "Roberta"
+        "uploader": "Roberta",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260819_101530_6a856622a55f0.jpeg",
         "caption": "",
-        "uploader": "Maria e Giuseppe"
+        "uploader": "Maria e Giuseppe",
+        "tags": []
     },
     {
         "type": "photo",
         "name": "20260819_101533_6a85662563a1e.jpeg",
         "caption": "",
-        "uploader": "Maria e Giuseppe"
+        "uploader": "Maria e Giuseppe",
+        "tags": []
     }
 ]
