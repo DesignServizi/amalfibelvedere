@@ -781,15 +781,6 @@
     },
     {
         "type": "photo",
-        "name": "20260815_181858_6a809172f0c3c.jpeg",
-        "caption": "",
-        "uploader": "Lucia",
-        "tags": [
-            "Assoli"
-        ]
-    },
-    {
-        "type": "photo",
         "name": "20260724_170254_6a637e9e74d41.jpeg",
         "caption": "Le vacanze",
         "uploader": "Sabrina Mansi",
@@ -1048,6 +1039,15 @@
         "uploader": "Lucia",
         "tags": [
             "Su Zoom"
+        ]
+    },
+    {
+        "type": "photo",
+        "name": "20260815_181858_6a809172f0c3c.jpeg",
+        "caption": "",
+        "uploader": "Lucia",
+        "tags": [
+            "Assoli"
         ]
     },
     {
