@@ -279,6 +279,15 @@
     },
     {
         "type": "text",
+        "id": "tmswqrp2xggwm40",
+        "text": "",
+        "tags": [],
+        "duration": 15,
+        "bg": "nero",
+        "fx": "none"
+    },
+    {
+        "type": "text",
         "id": "tmsuh4xvx56xu4q",
         "text": "",
         "tags": [
@@ -1064,14 +1073,5 @@
         "tags": [
             "Assoli"
         ]
-    },
-    {
-        "type": "text",
-        "id": "tmswqrp2xggwm40",
-        "text": "",
-        "tags": [],
-        "duration": 15,
-        "bg": "nero",
-        "fx": "none"
     }
 ]
