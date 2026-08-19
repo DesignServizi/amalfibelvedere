@@ -1067,5 +1067,11 @@
         "duration": 15,
         "bg": "nero",
         "fx": "none"
+    },
+    {
+        "type": "photo",
+        "name": "20260819_101505_6a85660954e98.jpeg",
+        "caption": "",
+        "uploader": "Roberta"
     }
 ]
