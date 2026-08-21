@@ -15,8 +15,7 @@
             "Le scampagnate",
             "Le attvit\u00e0 a Forchia",
             "Le cene insieme",
-            "Su Zoom",
-            "Assoli"
+            "Su Zoom"
         ],
         "defaultDuration": 3
     },
@@ -1024,5 +1023,77 @@
         "tags": [
             "Su Zoom"
         ]
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053429_6a87c7452f8f5.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260820_211531_6a875253f3cd5.jpg",
+        "caption": "",
+        "uploader": "Maria Grazia Amendola",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260820_233235_6a877273336bc.jpg",
+        "caption": "",
+        "uploader": "Remo Amendola",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053420_6a87c73c1b55b.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053422_6a87c73ed8d3c.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053424_6a87c740900f9.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053426_6a87c7424e491.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053427_6a87c743b4bdc.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
     }
 ]
