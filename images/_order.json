@@ -1065,7 +1065,8 @@
         "caption": "",
         "uploader": "congregazione",
         "tags": [],
-        "duration": 3
+        "duration": 3,
+        "fit": "contain"
     },
     {
         "type": "photo",
@@ -1091,6 +1092,7 @@
         "caption": "",
         "uploader": "congregazione",
         "tags": [],
-        "duration": 3
+        "duration": 3,
+        "fit": "contain"
     }
 ]
