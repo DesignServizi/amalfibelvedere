@@ -1061,20 +1061,20 @@
     },
     {
         "type": "photo",
-        "name": "20260821_053422_6a87c73ed8d3c.jpeg",
-        "caption": "",
-        "uploader": "congregazione",
-        "tags": [],
-        "duration": 3
-    },
-    {
-        "type": "photo",
         "name": "20260821_053424_6a87c740900f9.jpeg",
         "caption": "",
         "uploader": "congregazione",
         "tags": [],
         "duration": 3,
         "fit": "duo"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053422_6a87c73ed8d3c.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3
     },
     {
         "type": "photo",
