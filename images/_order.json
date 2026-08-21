@@ -1048,7 +1048,8 @@
         "caption": "",
         "uploader": "Remo Amendola",
         "tags": [],
-        "duration": 3
+        "duration": 3,
+        "fit": "cover"
     },
     {
         "type": "photo",
