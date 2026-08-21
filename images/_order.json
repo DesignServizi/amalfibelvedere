@@ -1088,9 +1088,10 @@
     {
         "type": "photo",
         "name": "20260821_053426_6a87c7424e491.jpeg",
-        "caption": "",
+        "caption": "La pre-festa",
         "uploader": "congregazione",
         "tags": [],
-        "duration": 3
+        "duration": 3,
+        "fit": "duo"
     }
 ]
