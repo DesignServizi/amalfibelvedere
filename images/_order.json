@@ -1077,19 +1077,19 @@
     },
     {
         "type": "photo",
-        "name": "20260821_053426_6a87c7424e491.jpeg",
-        "caption": "",
-        "uploader": "congregazione",
-        "tags": [],
-        "duration": 3
-    },
-    {
-        "type": "photo",
         "name": "20260821_053427_6a87c743b4bdc.jpeg",
         "caption": "",
         "uploader": "congregazione",
         "tags": [],
         "duration": 3,
         "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260821_053426_6a87c7424e491.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3
     }
 ]
