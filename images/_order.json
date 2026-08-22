@@ -1043,15 +1043,6 @@
     },
     {
         "type": "photo",
-        "name": "20260821_053420_6a87c73c1b55b.jpeg",
-        "caption": "",
-        "uploader": "congregazione",
-        "tags": [],
-        "duration": 3,
-        "fit": "contain"
-    },
-    {
-        "type": "photo",
         "name": "20260821_053424_6a87c740900f9.jpeg",
         "caption": "porta con te le nostre risate",
         "uploader": "congregazione",
@@ -1070,9 +1061,45 @@
     },
     {
         "type": "photo",
+        "name": "20260821_053420_6a87c73c1b55b.jpeg",
+        "caption": "",
+        "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
         "name": "20260821_053426_6a87c7424e491.jpeg",
         "caption": "",
         "uploader": "congregazione",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260822_105855_6a8964cff1070.jpg",
+        "caption": "",
+        "uploader": "Reny",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260822_105909_6a8964dde919b.jpg",
+        "caption": "",
+        "uploader": "Reny",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260822_105917_6a8964e5bb517.jpg",
+        "caption": "",
+        "uploader": "Reny",
         "tags": [],
         "duration": 3,
         "fit": "contain"
