@@ -186,6 +186,15 @@
     },
     {
         "type": "photo",
+        "name": "20260823_135947_6a8ae0b367c05.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
         "name": "20260813_120616_6a7d9718a628f.jpeg",
         "caption": "",
         "uploader": "Crescenzo",
@@ -1120,5 +1129,59 @@
         "tags": [],
         "duration": 10,
         "bg": "nero"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135938_6a8ae0aabbea2.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135941_6a8ae0ad3fca7.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135943_6a8ae0af3c983.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135945_6a8ae0b1337c6.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135949_6a8ae0b598298.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
+        "name": "20260823_135951_6a8ae0b7267eb.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
     }
 ]
