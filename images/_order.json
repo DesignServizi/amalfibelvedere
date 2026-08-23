@@ -186,6 +186,15 @@
     },
     {
         "type": "photo",
+        "name": "20260823_135943_6a8ae0af3c983.jpeg",
+        "caption": "",
+        "uploader": "Davide Cicalese",
+        "tags": [],
+        "duration": 3,
+        "fit": "contain"
+    },
+    {
+        "type": "photo",
         "name": "20260823_135947_6a8ae0b367c05.jpeg",
         "caption": "",
         "uploader": "Davide Cicalese",
@@ -1142,15 +1151,6 @@
     {
         "type": "photo",
         "name": "20260823_135941_6a8ae0ad3fca7.jpeg",
-        "caption": "",
-        "uploader": "Davide Cicalese",
-        "tags": [],
-        "duration": 3,
-        "fit": "contain"
-    },
-    {
-        "type": "photo",
-        "name": "20260823_135943_6a8ae0af3c983.jpeg",
         "caption": "",
         "uploader": "Davide Cicalese",
         "tags": [],
